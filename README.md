@@ -6,6 +6,7 @@
     3. Commits
     4. Git CLI  
         `git clone <REPOSITORY URL>` <- get a repository fom GitHub  
+        `git status`<- see if there are any uncommitted changes  
         `git add --all` <- track all files  
         `git commit -m "<YOUR COMMIT MESSAGE>"` <- make a new commit  
         `git pull` <- pull commits from remote (GitHub)  
