@@ -15,7 +15,11 @@
 3. Python Management
     3.1. Poetry
     3.2. Virtual Environments
-
+4. Tooling
+    1. Terminal
+    2. `git` command
+    3. Visual Studio Code
+    
 ```
 Branch main: X–––X–––X–––X–––X–––X–––X
                  \             |  <- Merge
